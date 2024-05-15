@@ -6,7 +6,7 @@
 # (2) Matrix A is not square (N, M), where the number of rows (N conditions) exceeds the number of columns (M unknowns)
 # https://scipy.github.io/devdocs/reference/generated/scipy.linalg.lstsq.html#scipy.linalg.lstsq
 #
-# This algorithm computes the vector a such that the norm ||b - A * a|| is minimized.
+# This algorithm computes the vector such that the norm ||b - A * a|| is minimized.
 #
 # Dr. Dmitriy Makhnovskiy, City College Plymouth, England, 07.04.2024
 #
